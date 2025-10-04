@@ -1,0 +1,1305 @@
+{1719}{1784}You did a wonderful job. Wonderful.
+{1832}{1881}You did it. You did it!
+{1962}{2089}To continue, you've listened to a long and|complex case, murder in the first degree.
+{2091}{2212}Premeditated murder is the most serious|charge tried in our criminal courts.
+{2214}{2327}You've listened to the testimony, had the|law interpreted as it applies in this case.
+{2329}{2442}lt's now your duty to sit down and try|and separate the facts from the fancy.
+{2444}{2546}One man is dead.|Another man's life is at stake.
+{2548}{2645}lf there's a reasonable doubt in your|minds as to the guilt of the accused -
+{2647}{2762}a reasonable doubt - then you must|bring me a verdict of not guilty.
+{2765}{2862}lf there's no reasonable doubt,|then you must, in good conscience,
+{2864}{2934}find the accused guilty.
+{2936}{3028}However you decide,|your verdict must be unanimous.
+{3031}{3113}ln the event that|you find the accused guilty,
+{3116}{3194}the bench will not entertain|a recommendation for mercy.
+{3197}{3275}The death sentence is mandatory|in this case.
+{3284}{3386}You are faced with a grave responsibility.|Thank you, gentlemen.
+{3417}{3495}The alternate jurors are excused.
+{3604}{3663}The jury will now retire.
+{7030}{7098}- Wanna piece of gum?|- No, thanks.
+{7106}{7167}This thing isn't movin'.
+{7234}{7322}- l'll give you a hand.|- That's it.
+{7436}{7516}You know somethin'? l called|the Weather Bureau this morning.
+{7519}{7591}This is gonna be|the hottest day of the year.
+{7593}{7657}You'd think they'd air-condition this place.
+{7659}{7737}- What is your name, sir?|- Oh, it's... that one. Yeah.
+{7739}{7839}Thank you very much.|OK, gentlemen. Everybody's here.
+{7841}{7964}Now, if there's anything you want,|l'll be right outside the door. Just knock.
+{8267}{8333}Good morning.|l never knew they locked the door.
+{8335}{8407}Sure they lock the door.|What'd you think?
+{8410}{8484}l don't know. lt just never occurred to me.
+{8505}{8599}- What's that for?|- l thought we might wanna vote by ballot.
+{8602}{8702}Great idea. Maybe we can|get him elected senator.
+{8842}{8934}- How'd you like it?|- l don't know. lt was pretty interesting.
+{8936}{9049}- Yeah? l almost fell asleep.|- l mean, l've never been on a jury before.
+{9052}{9113}No? l've sat on many juries.
+{9141}{9270}Those lawyers talk and talk, even when|it's an open-and-shut case like this one.
+{9272}{9358}- Ever hear so much talk about nothin'?|- l guess they're entitled.
+{9360}{9438}They're entitled. lt's the system, but...
+{9440}{9551}if you ask me, l'd slap those tough kids|down before they start any trouble.
+{9553}{9637}lt saves a lot of time and money.|Let's get started.
+{9640}{9704}Yeah. We've probably all|got things to do here.
+{9706}{9800}We can start with a five-minute break.|One gentleman is in the bathroom.
+{9803}{9852}Are... we gonna sit in order?
+{9855}{9920}Gee, l don't know. l guess so.
+{10035}{10094}- Buddy, you're in my seat.|- Oh, excuse me.
+{10097}{10146}That's all right.
+{10177}{10242}Hey, that's not a bad view, huh?
+{10309}{10418}What did you think of the case?|l mean, it had a lot of interest for me.
+{10421}{10513}No real... dead spots.|You know what l mean?
+{10515}{10626}We were lucky to get a murder case.|l figured us for an assault or burglary.
+{10628}{10693}Boy, they can be the dullest!
+{10719}{10844}- Hey, is that the Woolworth Building?|- That's right.
+{10847}{10941}lsn't that funny? l've lived here all my life.|l've never been inside it.
+{10944}{11041}lf you had to sort out all that junk,|like that thing with the movies.
+{11043}{11115}Yeah. What about|that business with the knife?
+{11117}{11189}Asking grown-up people|to believe that kind ofjazz.
+{11192}{11258}You expect that.|You know what we're dealing with.
+{11260}{11299}Yeah, l guess so.
+{11314}{11386}Well, your horn works.|Now try your lights.
+{11388}{11484}- You got a cold?|- And how. Hot-weather colds can kill you.
+{11486}{11545}l can hardly touch my nose.|Know what l mean?
+{11547}{11612}Sure do. l just got over one.
+{11632}{11741}- Oh, come on! Mr Foreman, let's go.|- The guy's still in the bathroom.
+{11744}{11836}What's new? l didn't get a chance|to see a paper this morning.
+{11838}{11895}l was only wondering|how the market closed.
+{11898}{12005}- You got a seat on the exchange?|- l'm a broker.
+{12008}{12057}l run a messenger service.
+{12060}{12115}The Beck and Call Company.
+{12118}{12171}The name is my wife's idea.
+{12174}{12258}Got 377 men workin'. Started with nothin'.
+{12261}{12326}OK, men. Let's take our seats, huh?
+{12413}{12538}We can all get out of here pretty quick.|l have tickets to that ball game tonight.
+{12541}{12631}Yanks and Cleveland. We've got|this kid Modjelewski in there.
+{12634}{12689}He's a real bull, this kid. You know...
+{12720}{12771}Real jug-handled. You know?
+{12836}{12930}You're a real baseball fan, aren't ya?|Where do we sit here?
+{12933}{13005}l thought we'd sit in order,|by jury numbers.
+{13008}{13096}One, two, three and so on around the|table, if that's OK with you gentlemen.
+{13099}{13173}- What's the difference?|- lt's reasonable to sit in order.
+{13175}{13335}- Let it be.|- That's twelve. We go around one, two...
+{13337}{13435}What was your impression|of the prosecuting attorney?
+{13437}{13504}- l beg pardon?|- l thought he was really sharp,
+{13506}{13598}the way he handled all those points|one by one, in logical sequence.
+{13601}{13718}- l was very impressed.|- l think he... he did an expert job.
+{13720}{13796}A lot of drive, too. You know? Real drive.
+{13799}{13881}OK, fellas. Can we|hold it down a minute? Fellas?
+{13884}{13935}Say, we'd like to get started.
+{13938}{14007}Gentleman at the window.
+{14009}{14085}- We'd like to get started.|- Oh, l'm sorry.
+{14087}{14208}- The kid kills his father, just like that.|- Listen, it happens all the time.
+{14210}{14265}They let those kids run wild up there.
+{14267}{14338}Well, maybe it serves him right.|You know what l mean?
+{14340}{14411}- ls everyone here?|- The old man is inside.
+{14413}{14479}- Would you knock on the door for him?|- Yeah.
+{14505}{14581}- Are you a Yankee fan?|- No, Baltimore.
+{14591}{14640}Baltimore?
+{14658}{14755}That's like being hit in the head|with a crowbar once a day.
+{14757}{14847}Who have they got? Who have they got|besides good groundkeepers?
+{14850}{14926}- Say, we'd like to get started.|- Forgive me, gentlemen.
+{14929}{15017}- l didn't mean to keep you waiting.|- Baltimore?
+{15026}{15164}OK, if l can have your attention. You fellas|can handle this thing any way you want.
+{15167}{15233}l'm... you know,|l'm not gonna make any rules.
+{15235}{15377}We can, well, discuss it first, then vote|on it. That's, of course... that's one way.
+{15380}{15446}And, well, we can vote on it right now.
+{15448}{15514}l think it's customary|to take a preliminary vote.
+{15516}{15608}Yeah, let's vote. Who knows?|Maybe we can all get outta here.
+{15645}{15793}OK. Then l think that you know that we|have a first-degree murder charge here,
+{15795}{15918}and if we vote the accused guilty,|we've got to send him to the chair.
+{15920}{15983}Um... That's mandatory.
+{15985}{16057}- l think we know that.|- Yeah, let's see who's where.
+{16060}{16148}- OK. Anyone doesn't wanna vote?|- lt's fine with me.
+{16178}{16307}OK, then, just remember that this|has to be twelve to nothing, either way.
+{16309}{16381}That's the law. OK, are we ready?
+{16384}{16468}All those voting guilty,|please raise your hands.
+{16547}{16643}One, two, three, four, five, six, seven...
+{16665}{16722}eight, nine, ten, eleven.
+{16725}{16784}OK, that's eleven guilty.
+{16798}{16847}Those voting not guilty?
+{16859}{16912}One. Right.
+{16914}{17029}Eleven guilty, one not guilty.|Well, now we know where we are.
+{17031}{17107}Boy, oh boy! There's always one.
+{17139}{17204}So, what do we do now?
+{17206}{17280}- l guess we talk.|- Boy, oh boy!
+{17282}{17352}You really think he's innocent?
+{17415}{17493}- l don't know.|- You sat in court with the rest of us.
+{17495}{17571}You heard what we did.|The kid's a dangerous killer.
+{17573}{17655}- He's 18 years old.|- Well, that's old enough.
+{17658}{17727}He stabbed his own father|four inches into the chest.
+{17729}{17793}They proved it|a dozen different ways in court.
+{17795}{17879}- Would you like me to list 'em for you?|- No.
+{17887}{17959}- Then what do you want?|- l just want to talk.
+{17961}{18037}What's there to talk about?|Eleven of us think he's guilty.
+{18039}{18094}No one had to think about it twice|except you.
+{18097}{18173}l want to ask you something.|Do you believe his story?
+{18175}{18278}- l don't know. Maybe l don't.|- So how come you voted not guilty?
+{18280}{18325}There were eleven votes for guilty.
+{18327}{18448}lt's not easy to raise my hand and send a|boy off to die without talking about it first.
+{18451}{18535}- Well, now, who says it's easy?|- No one.
+{18538}{18653}What? Just because l voted fast?|l honestly think the guy is guilty.
+{18655}{18719}Couldn't change my mind|if you talked for 100 years.
+{18721}{18786}l'm not trying to change your mind.|lt's just that...
+{18788}{18862}This is somebody's life.|We can't decide in five minutes.
+{18865}{18970}- Supposing we're wrong?|- Supposing this building fell on my head?
+{18973}{19042}- You can suppose anything.|- That's right.
+{19044}{19165}What's the difference how long it takes?|Supposin' we take five minutes? So what?
+{19167}{19284}Let's take an hour. The ball game|doesn't start till eight o'clock.
+{19399}{19481}- Who's got something to say?|- l'm willing to sit for an hour.
+{19483}{19611}- Great. l heard a good story last night...|- That's not why we're sitting here.
+{19613}{19713}All right, then you tell me.|What are we sitting here for?
+{19729}{19796}l don't know. Maybe no reason.
+{19798}{19880}Look, this kid's been|kicked around all of his life.
+{19883}{19973}You know, born in a slum,|mother dead since he was nine.
+{19976}{20033}He lived for a year and a half|in an orphanage
+{20035}{20106}when his father was serving|a jail term for forgery.
+{20108}{20163}That's not a very happy beginning.
+{20166}{20254}He's a wild, angry kid. That's all|he's ever been. And you know why?
+{20256}{20348}Cos he's been hit on the head|by somebody once a day, every day.
+{20351}{20478}He's had a pretty miserable 18 years.|l think we owe him a few words, that's all.
+{20480}{20593}l don't mind telling you this, mister. We|don't owe him a thing. He got a fair trial.
+{20596}{20705}What do you think that trial cost?|He's lucky he got it. Know what l mean?
+{20707}{20810}Look, we're all grown-ups in here.|We heard the facts, didn't we?
+{20812}{20915}You're not gonna tell me we're supposed|to believe this kid, knowing what he is.
+{20918}{20971}l've lived among them all my life.
+{20974}{21101}You can't believe a word they say.|You know that. l mean, they're born liars.
+{21103}{21181}- Only an ignorant man can believe that.|- Now, listen...
+{21183}{21252}Do you think you were born|with a monopoly on the truth?
+{21254}{21321}Certain things should be|pointed out to this man.
+{21323}{21444}- lt's not Sunday. We don't need a sermon.|- We have a job to do. Now let's do it.
+{21447}{21537}Rice Pops. lt's a product|l work on at the agency.
+{21540}{21601}''The breakfast with the built-in bounce.''
+{21603}{21660}- l wrote that line.|- Very catchy.
+{21662}{21773}- Say, do you mind?|- l'm sorry. l have this habit of doodling.
+{21776}{21847}- lt keeps me thinking clearly.|- We have work to do.
+{21849}{21923}There's no point|staying here for ever. OK.
+{21936}{22084}Perhaps if the gentleman down there who|is disagreeing with us could tell us why.
+{22086}{22183}Tell us what you're thinking. We might be|able to show you where you're mixed up.
+{22185}{22346}Maybe this is an idea. lt seems to me that|it's up to us to convince this gentleman
+{22348}{22483}that he's wrong and we're right. Maybe if|we each took a couple of minutes just to...
+{22485}{22577}- Well, it was just a quick idea.|- No, no, no. That's a good one.
+{22580}{22629}Supposing we go once around the table?
+{22634}{22681}l guess you're first.
+{22774}{22835}lt's hard to put into words.
+{22856}{22911}l just think he's guilty.
+{22913}{23003}l thought it was obvious from the word go.|Nobody proved otherwise.
+{23006}{23102}Nobody has to prove otherwise.|The burden of proof's on the prosecution.
+{23104}{23206}The defendant doesn't even have to open|his mouth. That's in the Constitution.
+{23208}{23310}Sure, l know that. What l meant was...
+{23328}{23416}Well... l just think he's guilty.|l mean, somebody saw him do it.
+{23419}{23544}OK. Here's what l think. And l have|no personal feelings about this.
+{23547}{23619}l just wanna talk about facts.
+{23622}{23679}Number one.
+{23682}{23783}The old man lived downstairs under|the room where the killing took place.
+{23785}{23873}At 10 minutes after 12 on the night|of the killing, he heard loud noises.
+{23876}{23925}Said it sounded like a fight.
+{23928}{23995}And he heard the kid yell out|''l'm gonna kill ya.''
+{23997}{24052}A second later,|he heard a body hit the floor.
+{24055}{24160}Ran to the door, opened it up, saw the kid|run down the stairs and out of the house.
+{24163}{24257}Called the police. They found the old man|with the knife in his chest.
+{24259}{24337}The coroner fixed the time of death|around midnight.
+{24339}{24467}Now, these are facts.|You can't refute facts. The kid is guilty.
+{24469}{24547}l'm just as sentimental as the next fella.|l know he's only 18.
+{24550}{24650}- But he's still gotta pay for what he did.|- l'm with you.
+{24652}{24744}- OK. Are you finished?|- Yeah.
+{24747}{24831}lt is obvious to me that|the boy's entire story was flimsy.
+{24833}{24878}He claimed he was at the movies,
+{24881}{24975}yet he couldn't remember the names|of the films he saw or who played in them.
+{24978}{25045}- That's right.|- And no one saw him at the theatre.
+{25047}{25152}And the woman across the street - if her|testimony don't prove it, nothing does.
+{25154}{25261}- That's right. She actually saw the killing.|- Fellas, please. Let's go in order.
+{25263}{25312}Just a minute. Here's a woman...
+{25345}{25454}Here's a woman who's lying in bed.|She can't sleep. She's dyin' with the heat.
+{25457}{25531}She looks out the window,|and right across the street
+{25533}{25619}she sees the kid stick the knife|into his father.
+{25622}{25696}The time is 12.10 on the nose.|Everything fits.
+{25699}{25754}She's known the kid all his life.
+{25756}{25848}His window is opposite hers across the|el tracks. She swore she saw him do it.
+{25851}{25912}Through the windows|of a passing el train.
+{25915}{26017}This el train had no passengers on it.|lt was just being moved downtown.
+{26019}{26099}The lights were out,|and they proved in court that at night
+{26101}{26193}you can look through the windows and|see what's happening on the other side.
+{26195}{26271}- They proved it.|- l'd like to ask you something.
+{26273}{26343}You don't believe the boy.|How come you believe the woman?
+{26345}{26423}She's one of ''them'' too, isn't she?
+{26450}{26544}- You're a pretty smart fella, aren't ya?|- OK, gentlemen. Now, gentlemen.
+{26546}{26649}- Come on, sit down. Sit down.|- What's he so wise about? l'm telling ya...
+{26651}{26729}Come on. Now we're not gonna|get anywhere fighting.
+{26732}{26834}- Whose turn is it next?|- Oh, his. Number five.
+{26912}{26973}May l... Can l pass?
+{26976}{27045}Well... That's your privilege.
+{27047}{27100}How about the next gentleman?
+{27103}{27164}Oh. Well... l don't know.
+{27167}{27278}l started to be convinced,|you know, very early in the case.
+{27281}{27357}You see, l was looking for a motive.
+{27360}{27493}That's very important because if you don't|have a motive, where's your case, right?
+{27495}{27633}Anyway, that testimony from those people|across the hall from the kid's apartment,
+{27635}{27765}that was very powerful. Didn't they say|something about a fight, an argument,
+{27767}{27870}between the old man and his son|around about seven o'clock that night?
+{27872}{27952}- l could be wrong but...|- lt was eight o'clock, not seven.
+{27954}{28092}They heard an argument. Then|they heard the father hit the boy twice.
+{28095}{28197}Finally they saw the boy run, angry,|out of the house. What does that prove?
+{28199}{28271}lt don't prove anything.|lt's just part of the picture.
+{28273}{28349}You said it provided a motive.|So did the prosecution.
+{28351}{28402}That wasn't a very strong motive.
+{28404}{28498}This boy has been hit so many times|that violence is practically...
+{28500}{28555}lt's a normal state of affairs with him.
+{28558}{28660}l just can't see two slaps in the face|provoking him into committing murder.
+{28662}{28771}lt may have been two too many.|Everyone has a breaking point.
+{28802}{28857}Anything else?
+{28859}{28939}- No.|- OK. How about you?
+{29002}{29084}l don't know. lt's all been said.
+{29086}{29168}You can talk here for ever.|lt's still the same thing.
+{29178}{29295}This kid is five for 0.|Well, look at his record.
+{29297}{29400}When he was 10, he was in children's|court: he threw a rock at a teacher.
+{29402}{29500}When he was 15, he was|in reform school: he stole a car.
+{29502}{29617}He's been arrested for muggin'.|He was picked up twice for knife fightin'.
+{29620}{29733}They say he's real handy with a knife.|Oh, this is a very fine boy.
+{29735}{29844}Ever since he was five, his father|beat him up regularly. He used his fists.
+{29846}{29905}So would l. A kid like that?
+{29908}{29988}lt's these kids -|the way they are nowadays.
+{30042}{30130}When l was a kid,|l used to call my father ''sir''.
+{30133}{30209}That's right. Ever hear a kid|call his father that any more?
+{30211}{30291}Fathers don't seem to think|it's important any more.
+{30294}{30351}- You got any kids?|- Three.
+{30377}{30426}l got one.
+{30449}{30498}He's 22 years old.
+{30635}{30742}When he was nine years old,|he ran away from a fight.
+{30744}{30859}l saw it. l was so embarrassed,|l almost threw up.
+{30861}{30992}l said ''l'm gonna make a man out of you|if l have to break you in two tryin'.''
+{31030}{31095}Well, l made a man out of him.
+{31097}{31162}When he was 16, we had a fight.
+{31192}{31266}Hit me in the jaw. He was a big kid.
+{31328}{31399}l haven't seen him for two years.
+{31457}{31506}Kids.
+{31517}{31566}You work your heart out...
+{31627}{31711}- Well, let's get goin'.|- l think we're missing the point.
+{31714}{31802}This boy's the product of a broken home|and a filthy neighbourhood.
+{31804}{31888}We can't help that. We're here|to decide his innocence or guilt,
+{31890}{31961}not to go into the reasons|why he grew up the way he did.
+{31963}{32072}He was born in a slum.|Slums are breeding grounds for criminals.
+{32074}{32205}lt's no secret that children from slums|are potential menaces to society. l think...
+{32207}{32308}You can say that again. The kids who|crawl out of these places are real trash.
+{32310}{32440}- l don't want any part of them.|- Listen, l... l've lived in a slum all my life.
+{32442}{32485}- Wait a minute.|- Please. l...
+{32488}{32559}l've played in back yards|that were filled with garbage.
+{32561}{32628}- Maybe you can still smell it on me.|- Listen, sonny...
+{32630}{32687}Come on, now. There's nothing personal.
+{32689}{32775}Come on, fella. He didn't mean you.|Let's not be so sensitive.
+{32777}{32842}This sensitivity l can understand.
+{32844}{32959}OK, look. Let's stop the arguing.|We're only wasting time.
+{32962}{33021}Your turn down there. Let's go.
+{33048}{33142}l didn't expect a turn. l thought|you were all gonna to try to convince me.
+{33144}{33197}- That was the idea.|- l forgot. He's right.
+{33199}{33279}He's the one keeping us in here.|Let's hear what he's got to say.
+{33281}{33373}Wait. We decided to do this a certain way.|l think we ought to stick to it.
+{33376}{33431}Oh, stop being a kid, will ya?
+{33433}{33544}- What do you mean, a kid?|- What do you think l mean? K-l-D: kid.
+{33604}{33670}Just because l'm trying|to keep this organised?
+{33672}{33773}Here, you take on the responsibility.|l'll just keep my mouth shut.
+{33775}{33855}- Why are you gettin' so hot? Calm down.|- Don't tell me to calm down.
+{33858}{33915}You want to take the chair?|Take the chair.
+{33917}{33974}Did you ever see such a thing?
+{33976}{34056}- You think it's funny?|- Forget it, fella. lt's unimportant.
+{34058}{34103}Unimportant? Here, you try it.
+{34106}{34180}Nobody wants to change.|You're doing a beautiful job.
+{34183}{34318}Yeah, you're doin' great. Just great, fella.|You stay in there and pitch.
+{34320}{34406}All right, let's hear from somebody.
+{34409}{34509}Well, if you want me to tell you|how l feel about it, it's all right with me.
+{34511}{34630}- Boy, l don't care what you do.|- All right. l don't have anything brilliant.
+{34632}{34683}l only know as much as you do.
+{34686}{34774}According to the testimony,|the boy looks guilty. Maybe he is.
+{34776}{34889}l sat there in court for six days|listening while the evidence built up.
+{34891}{34940}Everybody sounded so positive.
+{34943}{35060}l began to get a peculiar feeling about|this trial. l mean, nothing is that positive.
+{35063}{35168}There are questions l'd have liked to ask.|Maybe they wouldn't mean anything but...
+{35171}{35286}l felt that the defence wasn't conducting|a thorough enough cross-examination.
+{35288}{35358}He let too many things go by - little things.
+{35360}{35428}What little things?|When they don't ask questions,
+{35430}{35500}it's because they know|the answers already.
+{35502}{35619}lt's also possible for a lawyer to be just|plain stupid, isn't it? l mean, it's possible.
+{35622}{35696}You sound like you met|my brother-in-law once.
+{35744}{35896}l kept putting myself in the kid's place.|l'd have asked for another lawyer, l think.
+{35899}{35956}l mean, if l was on trial for my life,
+{35959}{36078}l'd want my lawyer to tear the prosecution|witnesses to shreds, or at least try to.
+{36081}{36183}Look, there was one alleged|eyewitness to this killing.
+{36185}{36269}Someone else claims he heard the killing,|saw the boy run out after,
+{36272}{36325}and there was circumstantial evidence.
+{36327}{36421}But those two witnesses|were the entire case for the prosecution.
+{36424}{36459}Supposing they're wrong?
+{36461}{36541}What do you mean? What's the point|of having witnesses at all?
+{36543}{36648}- Could they be wrong?|- Those people were under oath.
+{36650}{36746}They're only people. People|make mistakes. Could they be wrong?
+{36748}{36822}- Well, no. l don't think so.|- Do you know so?
+{36824}{36906}Nobody can know a thing like that.|This isn't an exact science.
+{36909}{36968}That's right, it isn't.
+{37065}{37124}OK, let's get to the point.
+{37127}{37201}What about the switch knife|they found in the old man's chest?
+{37204}{37280}Some people haven't talked yet.|Shouldn't we go in order?
+{37283}{37369}They'll get a chance to talk.|Be quiet a second, will ya?
+{37371}{37482}What about the knife this fine, upright boy|admitted buying the night of the killing?
+{37485}{37571}- Let's talk about it.|- All right. Let's get it in here and look at it.
+{37574}{37695}- l'd like to see it again. Mr Foreman?|- Why do we have to see it again?
+{37697}{37783}The gentleman has a right|to see exhibits in evidence.
+{37801}{37881}- Say, could you bring us the knife?|- The knife? Sure.
+{37913}{37999}The knife and the way it was bought|is strong evidence, don't you think?
+{38002}{38094}- l do.|- Good. Let's take the facts one at a time.
+{38096}{38178}One: the boy admitted leaving the house|at eight o'clock at night
+{38180}{38233}after being slapped by his father.
+{38235}{38352}No, he didn't say ''slapped''.|He said ''punched''. There's a difference.
+{38354}{38415}After being hit several times by his father.
+{38417}{38513}Two: he went directly to a local junk shop|where he bought one of those...
+{38515}{38572}- Switch knives.|- Switchblade knives.
+{38575}{38688}This wasn't an ordinary knife. lt had|a very unusual carved handle and blade.
+{38690}{38799}The storekeeper said it was the only one|of its kind he had ever had in stock.
+{38801}{38926}Three: he met some friends of his in front|of a tavern about 8.45. Am l right so far?
+{38929}{38978}- Yes, you are.|- You bet he is.
+{38980}{39062}He talked with his friends|for an hour, leaving them at 9.45.
+{39065}{39132}During this time,|they saw the switch knife.
+{39134}{39299}Four: they identified the death weapon|in court as that very same knife.
+{39301}{39369}Five: he arrived home|at about ten o'clock.
+{39371}{39474}This is where the stories offered|by the State and the boy diverge slightly.
+{39476}{39535}He claims that he went to a movie|at about 11.30,
+{39538}{39641}returning home at 37.10 to find|his father dead and himself arrested.
+{39643}{39741}He also claims that the two detectives|threw him down a half a flight of stairs.
+{39743}{39835}What happened to the knife? He claims|it fell through a hole in his pocket
+{39838}{39928}on the way to the movies,|sometime between 11.30 and 3.10,
+{39930}{40018}and that he never saw it again.|Now, there is a tale, gentlemen.
+{40020}{40098}l think it's clear the boy|never went to the movies that night.
+{40101}{40191}No one in the house saw him go out.|No one at the theatre identified him.
+{40194}{40272}He couldn't even remember|the names of the pictures he saw.
+{40314}{40361}What actually happened is this.
+{40364}{40442}The boy stayed home,|had another fight with his father,
+{40445}{40529}stabbed him to death and left the house|at 10 minutes after 12.
+{40531}{40598}He even wiped the knife|clean of fingerprints.
+{40600}{40705}Are you trying to tell me that this knife|fell through a hole in the boy's pocket,
+{40708}{40765}someone picked it up,|went to the boy's house
+{40767}{40838}and stabbed his father with it|just to test its sharpness?
+{40840}{40893}No, but it's possible the boy lost his knife
+{40896}{40970}and somebody else stabbed his father|with a similar knife.
+{40972}{41031}Take a look at this knife.
+{41056}{41109}lt's a very unusual knife.
+{41111}{41213}l've never seen one like it. Neither had|the storekeeper who sold it to the boy.
+{41215}{41293}Aren't you asking us to accept|an incredible coincidence?
+{41295}{41410}- l'm just saying a coincidence is possible.|- And l say it's not possible.
+{41549}{41596}Where did that come from?
+{41598}{41665}- lt's the same knife!|- What do you think you're doin'?
+{41667}{41755}- Where did you get it?|- l went out walking last night.
+{41758}{41807}Through the boy's neighbourhood.
+{41810}{41937}l bought that at a pawn shop two blocks|from the boy's house. lt cost six dollars.
+{41939}{42005}lt's against the law|to buy or sell switchblade knives.
+{42007}{42083}- That's right. l broke the law.|- You pulled a real bright trick.
+{42086}{42145}Now supposing you tell me what it proves.
+{42148}{42226}- Maybe there are ten knives like that.|- Maybe there are!
+{42228}{42347}What does it mean? You found a knife like|it. What's that? The discovery of the age?
+{42350}{42451}You think somebody else did the stabbing|with exactly the same kind of knife?
+{42453}{42525}- The odds are a million to one.|- lt's possible!
+{42527}{42627}- But not very probable.|- OK, fellas. Let's take our seats.
+{42629}{42713}There's no point standing around|all over the place.
+{42716}{42804}lt's interesting that he'd find a knife|exactly like the boy's.
+{42807}{42916}- What's interesting about it? lnteresting!|- l just thought it was interesting.
+{42919}{42974}Eleven of us still think he's guilty.
+{42977}{43069}Right. You're not gonna|change anybody's mind.
+{43071}{43126}lf you wanna hang this jury, go ahead.
+{43128}{43228}The kid'll be tried again|and found guilty, as sure as he's born.
+{43236}{43287}You're probably right.
+{43289}{43357}So, what are you gonna do?|We can be here all night.
+{43359}{43437}lt's only one night. A boy may die.
+{43440}{43506}Well, why don't we just|set up house here?
+{43508}{43563}Someone send for a pinochle deck
+{43566}{43654}and we'll just sweat|the whole thing out right here.
+{43656}{43748}- l don't think he oughta joke about it.|- What do you want me to do about it?
+{43750}{43824}l don't see what the knife|has got to do with anything.
+{43827}{43897}Somebody saw the kid stab his father.|What more do we need?
+{43899}{43967}You guys can talk the ears|right off my head.
+{43969}{44078}l got three garages going to pot.|So let's get done and get outta here.
+{44080}{44166}The knife was important to the|district attorney. He spent a day...
+{44168}{44236}He's a 15th assistant or something.|What does he know?
+{44238}{44341}Let's hold it down. These side arguments|are only slowin' us up.
+{44385}{44465}- Well, what about it?|- You're the only one.
+{44643}{44791}l have a proposition to make to all of you.|l'm going to call for another vote.
+{44793}{44860}l want you eleven men to...
+{44862}{44919}vote by secret written ballot.
+{44931}{45042}l'll abstain. lf there are eleven votes|for guilty, l won't stand alone.
+{45044}{45161}We'll take in a guilty verdict|to the judge right now.
+{45164}{45289}But if anyone votes not guilty,|we'll stay here and talk it out.
+{45334}{45449}- That's it. lf you want to try it, l'm ready.|- All right. Let's do it the hard way.
+{45452}{45544}That sounds fair. Everyone agreed?|Anyone doesn't agree?
+{45546}{45595}OK, pass these along.
+{46383}{46432}Guilty.
+{46476}{46515}Guilty.
+{46558}{46597}Guilty.
+{46637}{46676}Guilty.
+{46706}{46745}Guilty.
+{46779}{46818}Guilty.
+{46858}{46897}Guilty.
+{46910}{46949}Guilty.
+{46974}{47013}Guilty.
+{47112}{47159}Not guilty.
+{47162}{47199}Guilty.
+{47201}{47301}- Boy, how do you like that?|- And another chap flips his wings!
+{47303}{47371}All right. Who was it?|Come on, l wanna know.
+{47373}{47461}Excuse me. This was a secret ballot.|We all agreed on that, no?
+{47463}{47522}lf the gentleman|wants it to remain secret...
+{47524}{47658}Secret? What do you mean? There are no|secrets in a jury room. l know who it was.
+{47660}{47762}Brother, you really are somethin'.|You vote guilty like the rest of us,
+{47764}{47840}then some golden-voiced preacher|tears your heart out -
+{47843}{47921}some underprivileged kid|couldn't help becoming a murderer -
+{47924}{48014}and you change your vote.|lf that isn't the most sickening...
+{48016}{48098}Why don't you drop a quarter|in his collection box?
+{48101}{48212}Oh, now just wait a... Listen, you can't talk|to me like that. Who do you think you are?
+{48215}{48282}Calm down, calm down. lt doesn't matter.
+{48284}{48370}- He's very excitable. Sit down.|- Excitable? You bet l'm excitable!
+{48373}{48453}We're tryin' to put a guilty man|in the chair, where he belongs.
+{48455}{48543}Someone starts tellin' us|fairy tales and we're listenin'!
+{48560}{48677}- What made you change your vote?|- He didn't change his vote. l did.
+{48680}{48727}- Oh, fine.|- l knew it.
+{48730}{48822}- Would you like me to tell you why?|- No, l wouldn't like you to tell me why.
+{48825}{48923}- l'd like to anyway, if you don't mind.|- Do we have to listen to this?
+{48925}{49009}- The man wants to talk.|- Thank you.
+{49011}{49091}This gentleman has been|standing alone against us.
+{49094}{49147}He doesn't say the boy is not guilty.
+{49150}{49267}He just isn't sure. lt's not easy to stand|alone against the ridicule of others.
+{49270}{49383}So he gambled for support and l gave it|to him. l respect his motives.
+{49386}{49497}The boy on trial is probably guilty,|but... l want to hear more.
+{49500}{49588}The vote is ten to two. l'm talking!|You have no right to leave this room!
+{49590}{49668}He can't hear you. He never will.|Let's sit down.
+{49793}{49890}- Shall we continue?|- Well, l think we ought to take a break.
+{49892}{50003}You know, one man's inside and|l think we ought to wait for him.
+{50069}{50137}Looks like we're really|hung up here, huh?
+{50139}{50246}l mean, that thing with the old man,|that was pretty unexpected.
+{50249}{50335}Wish l could figure out some way|we could break it up.
+{50380}{50489}You know, in advertising...|l told you l worked in an agency?
+{50492}{50584}Some pretty strange people work there.|Well, not strange, really.
+{50586}{50689}l guess it's just they have peculiar ways|of expressing themselves.
+{50691}{50763}l suppose it's the same|in your business too, huh?
+{50765}{50826}- What do you do?|- l'm a watchmaker.
+{50828}{50927}Really? l imagine the finest watchmakers|in the world come from Europe.
+{50929}{51001}Anyway, in an agency,|when we reach a point like this...
+{51003}{51095}l'm telling him, in an ad agency when|a point like this is reached in a meeting,
+{51097}{51171}there's always some character|ready with an idea, see.
+{51174}{51231}lt kills me. lt's the weirdest thing,
+{51234}{51306}the way they sometimes precede|their idea with a phrase.
+{51309}{51397}Like, some account exec|will get up and he'll say:
+{51400}{51552}''OK, here's an idea. Let's... run it up|the flagpole and see if anyone salutes it.''
+{51554}{51615}l mean, it's idiotic, but it's funny.
+{51617}{51703}l... got a little excited back there.
+{51706}{51777}l... didn't mean to get nasty.
+{51809}{51937}Glad you're not one of those who lets|these emotional appeals influence him.
+{52299}{52364}l don't know what's the matter|with that fan.
+{52598}{52676}- Are you a salesman?|- l'm an architect.
+{52741}{52809}You know what the soft sell is?
+{52866}{52938}Well, you've got it, believe me.
+{52951}{53012}l've got a different technique.
+{53014}{53108}Laughs, drinks, jokes, tricks. You know?
+{53133}{53182}Yeah.
+{53198}{53280}Hit 'em where they live - that's my motto.
+{53282}{53370}l made 27 grand last year|sellin' marmalade.
+{53373}{53459}That's not bad. l mean, you know,|considerin' marmalade.
+{53510}{53575}What are you gettin' out of this? Kicks?
+{53593}{53681}Or did somebody bump you on the head|once and you haven't gotten over it?
+{53684}{53787}- Maybe.|- You know, you do-gooders are all alike.
+{53790}{53901}You're always blowin' your stacks|over some guy that fanned.
+{53930}{53995}But what are you wastin' our time for?
+{53997}{54129}Why don't you donate five dollars to the|cause? Maybe it'll make you feel better.
+{54169}{54220}This kid is guilty, pal.
+{54223}{54338}lt's as plain as the nose on your face. So|why don't we stop wastin' our time here?
+{54340}{54409}We're gonna all get sore throats|if we keep it up.
+{54411}{54503}What difference does it make|if you get it here or at the ball game?
+{54505}{54562}No difference, pal.
+{54565}{54614}No difference at all.
+{54895}{55014}- Nice bunch of guys, huh?|- They're about the same as anyone else.
+{55016}{55075}Boy, what a murderous day.
+{55086}{55176}- Do you think we'll be much longer?|- l don't know.
+{55178}{55266}He's guilty for sure.|Not a doubt in the whole world.
+{55269}{55359}We should've...|We should've been done already.
+{55381}{55438}Oh, l don't mind, you know.
+{55441}{55490}Beats workin'.
+{55643}{55750}- You think he's not guilty, huh?|- l don't know. lt's possible.
+{55753}{55850}Well, l don't know you, but l'm bettin'|you've never been wronger in your life.
+{55852}{55909}You're wastin' your time.|You ought to wrap it up.
+{55912}{55981}Supposing you were the one|who was on trial?
+{55983}{56061}Well, l'm not used to supposin'.|l'm just a workin' man.
+{56063}{56134}My boss does the supposin'. But...
+{56136}{56185}l'll try one.
+{56205}{56287}Supposin' you talk us all out of this and...
+{56290}{56382}the kid really did knife his father, huh?
+{56556}{56605}Are you ready?
+{56640}{56689}Sorry, blue eyes.
+{56707}{56781}- Well, where else?|- OK, fellas. Let's take our seats.
+{56784}{56895}- Looks like we'll be here for dinner.|- OK, now let's get down to business.
+{56898}{56941}- Who wants to start?|- l will.
+{56944}{57013}- OK, go.|- You, down there.
+{57015}{57112}The old man who lived downstairs says|he heard the kid yell ''l'm gonna kill ya.''
+{57114}{57173}A second later,|he heard the body hit the floor.
+{57176}{57299}He ran to the door and saw the kid run out|of the house. What's that mean to you?
+{57301}{57387}l wonder how clearly he heard|the boy's voice through the ceiling.
+{57389}{57487}He didn't. The window was open. So was|the one upstairs. lt was a hot night.
+{57489}{57575}lt was another apartment.|lt's not easy to identify a shouting voice.
+{57577}{57620}He identified it in court.
+{57623}{57730}The lady across the street looked right in|the open window and saw the stabbing.
+{57732}{57791}- lsn't that enough for you?|- No, it isn't.
+{57794}{57884}Boy, how do you like this guy?|lt's like talkin' into a dead phone.
+{57886}{57960}She said she saw it through|the windows of a moving el train.
+{57962}{58046}There were six cars on the train.|She saw it through the last two.
+{58049}{58145}She remembered insignificant details.|How can you argue with that?
+{58147}{58275}Has anybody here any idea|how long it would take an el...
+{58503}{58562}This isn't a game.
+{58639}{58694}Did you see him?
+{58697}{58775}The nerve! The absolute nerve!
+{58778}{58870}- Forget it. lt's not important.|- This isn't a game?
+{58872}{58954}- Who does he think he is?|- Forget it now.
+{58956}{59083}Any idea how long it takes an el train|at medium speed to pass a given point?
+{59085}{59130}- What has that to do with it?|- Guess.
+{59132}{59189}- l wouldn't have any idea.|- What do you think?
+{59191}{59304}- l don't know. Ten, twelve seconds?|- A pretty good guess. Anyone else?
+{59306}{59370}- Sounds right to me.|- What's the guessing game for?
+{59372}{59417}- What do you say?|- Ten seconds.
+{59419}{59497}- All right. What are you getting at?|- This.
+{59500}{59588}lt takes a six-car el train|ten seconds to pass a given point.
+{59590}{59697}Say the given point is the open window|of the room where the killing took place.
+{59699}{59771}You can reach out|and almost touch the el tracks, right?
+{59773}{59865}Now let me ask you this. Has anyone|here ever lived near the el tracks?
+{59868}{59983}l just finished painting an apartment that|overlooked an el line. lt took three days.
+{59985}{60090}- What was it like? Noisy?|- Oh, brother! No matter. We were punchy.
+{60092}{60157}l lived in an apartment|near the el line once.
+{60159}{60233}When the window's open,|the train noise is almost unbearable.
+{60236}{60324}- You can hardly hear yourself think.|- Will you get to the point?
+{60327}{60448}l will. Now, let's take two pieces of|testimony and try to put them together.
+{60451}{60552}First: the old man|in the apartment downstairs.
+{60554}{60615}He says he heard the boy say|''l'm gonna kill you'',
+{60617}{60681}and a split second later|heard a body hit the floor.
+{60683}{60724}- One second later.|- Right.
+{60727}{60792}Second: the woman across the street
+{60794}{60891}swore positively she looked|out of the window and saw the killing
+{60893}{60975}through the last two cars|of a passing el train - the last two cars.
+{60977}{61043}- What are you givin' us here?|- Now, just a minute.
+{61045}{61168}We've agreed that it takes ten seconds|for a train to pass a given point.
+{61171}{61247}Since the woman saw the killing|through the last two cars,
+{61250}{61380}we can assume that the body hit|the floor just as the train went by.
+{61382}{61485}Therefore, the train had been|roaring by the old man's window
+{61487}{61569}a full ten seconds|before the body hit the floor.
+{61571}{61696}The old man - ''l'm gonna kill you'',|body hitting the floor a second later -
+{61698}{61798}would have had to hear the boy's words|with the el roaring past his nose!
+{61800}{61870}- lt's not possible he heard it.|- Of course he heard it.
+{61872}{61952}- Do you think so?|- He said he yelled at the top of his voice.
+{61954}{62032}He couldn't have identified the voice|with the el roaring by.
+{62034}{62102}lt was a matter of seconds!|Nobody can be that accurate.
+{62104}{62229}Testimony that could put a boy into the|electric chair should be that accurate.
+{62266}{62371}- l don't think he could have heard it.|- Maybe he didn't, with all that el noise.
+{62374}{62468}- What are you people talkin' about?|- lt stands to reason he couldn't have.
+{62470}{62568}- Why lie? What's he got to gain?|- Attention, maybe.
+{62570}{62695}You keep comin' in with bright sayings.|Send 'em to a paper! They pay $3 apiece!
+{62697}{62764}What are you talkin' to him like that for?
+{62766}{62850}A guy who talks like that to an old man|really oughta get stepped on.
+{62853}{62925}You oughta have more respect, mister.
+{62928}{63049}You say stuff like that to him again...|l'm gonna lay you out.
+{63276}{63345}You go ahead. You say anything you like.
+{63371}{63445}Why do you think the old man might lie?
+{63448}{63545}lt was just that l looked at him|for a very long time.
+{63547}{63625}The seam of his jacket was split,|under the shoulder.
+{63627}{63732}Did you notice that?|l mean, to come into court like that.
+{63792}{63872}He was a very old man in a torn jacket.
+{63885}{63969}And he walked very slowly to the stand.
+{63971}{64074}He was dragging his left leg|and trying to hide it,
+{64076}{64137}because he was ashamed.
+{64139}{64240}l think l know this man|better than anyone here.
+{64242}{64310}This is a quiet, frightened,
+{64312}{64371}insignificant old man who...
+{64373}{64439}who has been nothing all his life.
+{64441}{64558}Who has never had recognition|or his name in the newspapers.
+{64561}{64662}Nobody knows him. Nobody quotes him.
+{64664}{64754}Nobody seeks his advice after 75 years.
+{64777}{64888}Gentlemen, that's a very sad thing -|to mean nothing.
+{64890}{65005}A man like this needs to be quoted,|to be listened to.
+{65009}{65107}To be quoted just once -|very important to him.
+{65109}{65181}lt would be so hard for him|to recede into the background.
+{65184}{65282}Wait a minute. Are you tellin' us he'd lie|just so he could be important once?
+{65284}{65352}No. He wouldn't really lie.
+{65354}{65434}But perhaps he made himself believe|he heard those words
+{65437}{65492}and recognised the boy's face.
+{65495}{65552}That's the most fantastic story ever.
+{65555}{65649}How can you make up a thing like that?|What do you know about it?
+{65860}{65944}- Does anybody want a cough drop?|- l'll take one.
+{65946}{66032}l still don't see how anybody|can think he's not guilty.
+{66034}{66134}There's something else l'd like|to talk about for a minute. Thanks.
+{66136}{66233}We've proved the old man couldn't have|heard the boy say ''l'm gonna kill you.''
+{66235}{66329}- You didn't prove it at all!|- Wait. Supposing he really did hear it?
+{66331}{66423}This phrase, how many times have|all of us used it? Probably thousands.
+{66426}{66545}''l could kill you for that.'' ''Junior, do that|again and l'll kill you.'' ''Rocky, kill him.''
+{66548}{66673}- lt doesn't mean we'd really kill anybody.|- The phrase was: ''l'm gonna kill you.''
+{66675}{66730}The kid yelled it at the top of his lungs.
+{66732}{66818}Don't tell me he didn't mean it.|Anybody says it like that, they mean it!
+{66821}{66866}Gee, l don't know.
+{66869}{66959}l was arguing with the guy l work next to|at the bank a few weeks ago.
+{66961}{67020}He called me an idiot, so l yelled at him.
+{67022}{67089}This guy is trying to make you|believe what isn't so!
+{67091}{67140}The kid said he'd kill him and he did!
+{67143}{67254}Do you really think the boy'd shout it out|so the whole neighbourhood could hear?
+{67257}{67374}- He's much too bright for that.|- Bright? He's a common, ignorant slob.
+{67377}{67426}He don't even speak good English.
+{67429}{67511}He doesn't even speak good English.
+{67548}{67640}Mr Foreman, l'd like to|change my vote to not guilty.
+{67656}{67707}- You what?|- You heard me.
+{67709}{67791}- Are you sure?|- Yeah, l'm sure.
+{67794}{67858}The vote is nine to three|in favour of guilty.
+{67860}{67919}Well, if this isn't the livin' end!
+{68019}{68105}What are you basin' it on?|Stories this guy made up?
+{68107}{68205}You oughta write for one of those kooky|detective magazines, make a fortune.
+{68207}{68295}For cryin' out loud, the kid's own lawyer|knew he didn't stand a chance.
+{68297}{68381}Right from the beginning, his own|lawyer knew, and you could see it.
+{68384}{68485}Boy, oh boy, l'm telling ya.|This guy here is really somethin'.
+{68487}{68567}The kid had a lawyer, didn't he?|He presented his case, not you.
+{68570}{68639}- How come you say so much?|- Lawyers aren't infallible.
+{68641}{68713}- Baltimore, please.|- He was court-appointed.
+{68716}{68769}- What's that supposed to mean?|- A lot.
+{68771}{68849}He didn't want the case|or he resented being appointed.
+{68851}{68958}lt's the kind of case that brings no money,|no glory, not much chance of winning.
+{68960}{69034}That's not a very promising|situation for a young lawyer.
+{69037}{69154}He'd really have to believe in his client to|put up a good case. Obviously he didn't.
+{69157}{69206}Of course he didn't.
+{69228}{69283}Who the heck could?
+{69286}{69357}Except maybe some guy's mother|or somebody.
+{69359}{69429}Oh, look.|Will you look at the time? Come on.
+{69431}{69515}Pardon me. l have made some notes here,
+{69518}{69600}and l would like, please,|to say something.
+{69602}{69669}l have been listening very carefully and...
+{69671}{69763}it seems to me that this man|has some very good points to make.
+{69766}{69877}From what was presented at the trial,|the boy looks guilty, on the surface.
+{69880}{69972}- But maybe if we go deeper...|- Come on, will ya?
+{69974}{70027}There is a question l would like to ask.
+{70030}{70112}Let us assume that the boy|really did commit the murder.
+{70115}{70195}Now, this happened|at 10 minutes after 12.
+{70198}{70259}Now, how was he caught by the police?
+{70261}{70360}He came back home...|at three o'clock or so,
+{70362}{70452}and he was captured by two detectives|in the hallway of his house.
+{70455}{70566}Now, my question is:|if he really had killed his father,
+{70568}{70650}why would he come back home|three hours later?
+{70653}{70722}Wouldn't he be afraid of being caught?
+{70724}{70822}He came home for his knife. lt's not nice|to leave knives in people's chests.
+{70824}{70892}Yeah, especially relatives'.
+{70894}{70957}l don't see anything funny about it.
+{70959}{71035}The boy knew the knife|could be identified.
+{71038}{71145}- He had to get it before the police did.|- lf he knew the knife could be identified,
+{71148}{71211}why did he leave it there in the first place?
+{71213}{71344}l think we can assume the boy ran out in a|state of panic, having just killed his father.
+{71346}{71418}He calmed down and realised|he'd left his knife there.
+{71420}{71490}This, then, depends|on your definition of panic.
+{71492}{71611}He would have had to be calm enough to|wipe off any fingerprints left on the knife.
+{71613}{71705}Now, where did this panic start|and where did it end?
+{71708}{71775}You voted guilty. What side are you on?
+{71777}{71853}l don't believe l have to be loyal|to one side or the other.
+{71855}{71980}- l'm simply asking questions.|- This is just off the top of my head but...
+{71983}{72084}lf l'd done the stabbing, l'd take a chance|and go back for the knife.
+{72086}{72147}l'll bet he figured|nobody'd seen him running out
+{72150}{72217}and the body wouldn't be discovered|till the next day.
+{72219}{72320}After all, it was the middle of the night.|He figured it'd be found the next day.
+{72322}{72371}Pardon. This is my whole point.
+{72373}{72469}The woman across the street testified|that the moment after she saw the killing,
+{72471}{72524}that is, a moment after the train went by,
+{72527}{72603}she screamed, and then went|to telephone the police.
+{72605}{72689}Now, the boy certainly|must have heard the scream.
+{72692}{72770}So he knew that|somebody saw something.
+{72772}{72841}l just don't think|that he would have gone back.
+{72843}{72954}Two things. One: he may not have heard|the scream. Perhaps it wasn't very loud.
+{72956}{73036}Two: if he did, he may not|have connected it with his own acts.
+{73038}{73110}He lived in a neighbourhood|where screams were commonplace.
+{73113}{73218}- There's your answer.|- Maybe. Maybe the boy did kill his father.
+{73220}{73277}Didn't hear the scream,|did run out in a panic,
+{73280}{73397}calmed down later and came back for the|knife, risking being caught by the police.
+{73399}{73470}Maybe those things happened,|but maybe they didn't.
+{73472}{73574}There's enough doubt to wonder if he was|there at all at the time of the killing.
+{73576}{73658}What do you mean? Didn't the old man|see him running out of the house?
+{73661}{73704}He's twisting the facts.
+{73707}{73793}Did or didn't the old man see the kid|running out of the house at 12.10?
+{73795}{73859}- Well, did or didn't he?|- He says he did.
+{73861}{73920}Says he did? Boy, how do you like that?
+{73922}{73996}- Witnesses can make mistakes.|- Sure, when you want them to!
+{73999}{74064}- Or when he wants them to!|- Keep the yelling down.
+{74066}{74181}Maybe we need a little yelling. These|guys keep going off every which way.
+{74184}{74262}Did hear the scream, didn't hear it -|what difference does it make?
+{74265}{74357}You're talking about little details|and forgetting the important stuff.
+{74360}{74424}- l call for another vote.|- l'm talking here!
+{74426}{74475}Another vote called for.
+{74478}{74537}Now let's take our seats.
+{74612}{74671}l never saw so much time|spent on nothin'.
+{74673}{74728}lt only takes a second.
+{74744}{74826}OK, l guess the fastest way is|to find out who's voting not guilty.
+{74828}{74918}All those voting not guilty,|please raise your hands.
+{74921}{75007}Still the same. One, two, three|not guilty. Nine guilty.
+{75010}{75129}So now where are we? We can yakety-yak|till next Tuesday. Where's it getting us?
+{75131}{75203}Pardon. l vote not guilty.
+{75253}{75358}What are you talkin' about? l mean,|we're all goin' crazy in here or somethin'.
+{75360}{75442}The kid is guilty.|Why don't you listen to the facts?
+{75444}{75505}Tell them, will ya?|This is gettin' to be a joke.
+{75508}{75588}The vote is eight to four in favour of guilty.
+{75591}{75681}What is this?|Love Your Underprivileged Brother Week?
+{75683}{75771}l want you to tell me why|you changed your vote. Give me reasons.
+{75773}{75882}l don't have to defend my decision to you.|There is a reasonable doubt in my mind.
+{75885}{75956}Reasonable doubt?|Nothing but words. Look at this.
+{75958}{76077}The kid you just decided isn't guilty|was seen ramming this into his father!
+{76080}{76197}- What about this, Mr Reasonable Doubt?|- That's not the knife, remember?
+{76199}{76308}- Oh, brilliant!|- l'm tellin' you, this is the craziest.
+{76311}{76430}l mean, what are we supposed to believe?|You're pullin' stories out of thin air.
+{76432}{76524}A guy like this, if he's sittin' ringside|at the Dempsey-Firpo fight,
+{76526}{76569}he'd be trying to tell you that...
+{76583}{76638}Look. Now what about the old man?
+{76640}{76728}Are we supposed to believe he didn't|see the kid tearin' down the steps
+{76731}{76778}15 seconds after the killing?
+{76781}{76844}He's just sayin' so to be important, right?
+{76846}{76897}- What's the point of it all?|- Hold it.
+{76899}{76954}The Baltimore rooter is heard from again.
+{76956}{77040}- And pop-ups are fallin' for base hits.|- Hold on a second. Look.
+{77043}{77127}- Did the old man say he ran to the door?|- What's the difference?
+{77130}{77228}- He got there, didn't he?|- He said he ran. At least l think he did.
+{77230}{77306}l don't remember, but l don't see|how he could have run.
+{77309}{77395}He said he wentfrom his bedroom|to the front door. lsn't that enough?
+{77397}{77456}- Where was the bedroom?|- Down the hall.
+{77458}{77524}- Don't you remember that?|- No.
+{77526}{77647}- l want to see a diagram of the apartment.|- Why don't we have him on trial again?
+{77650}{77705}You're the only one|wants to see exhibits.
+{77707}{77787}- l want to see this one, too.|- l'd like to stop wastin' time.
+{77789}{77867}lf we're gonna wade through|that nonsense about the body...
+{77869}{78000}No, but l'd like to know if an old man|who drags one foot cos he had a stroke
+{78002}{78069}can get from his bedroom|to his front door in 15 seconds.
+{78071}{78112}- He said 20.|- He said 15.
+{78115}{78203}- 20. What are you tryin' to distort?|- He said 15.
+{78205}{78281}How does he know how long|15 seconds is? You can't judge that.
+{78283}{78344}He said 15. He was positive about it.
+{78346}{78399}He was an old man! He was confused!
+{78402}{78488}How could he be positive about anything?
+{78647}{78746}l don't see what you're going to prove.|The man said he saw the boy running out.
+{78748}{78826}Let's see if the details bear him out.|As the body hit the floor,
+{78829}{78911}he said he heard footsteps upstairs,|running to the front door.
+{78913}{78989}Heard the upstairs door open,|the footsteps start down.
+{78992}{79130}He said he got to his own door in, at most,|15 seconds. lf the killer ran immediately...
+{79132}{79193}- Maybe he didn't.|- The old man said he did.
+{79196}{79276}You oughta be at|that hair-splitters' convention.
+{79278}{79333}Why don't you stop|making smart remarks?
+{79336}{79445}My friend, for your three dollars a day,|you have to listen to everything.
+{79448}{79590}Here's the apartment. The old man's was|directly beneath and exactly the same.
+{79592}{79717}Here are the el tracks, the bedroom, living|room, kitchen, bathroom, hall, stairs.
+{79720}{79773}The old man was in this bedroom here.
+{79776}{79856}He says he crossed to the door,|walked down the hall, opened the door
+{79859}{79937}just in time to see the boy|running down the stairs. Am l right?
+{79940}{79995}That's the story, for the 19th time.
+{79998}{80082}- 15 seconds after the body hit the floor.|- Correct.
+{80084}{80133}Now, let's see. lt was...
+{80136}{80226}lt's 12 feet from the bed to the door.|The hall is 43 feet.
+{80229}{80311}He would have had to walk 12 feet,|open the bedroom door,
+{80314}{80400}walk 43 feet down and open|the front door, all in 15 seconds.
+{80402}{80451}- Could he have done it?|- Sure.
+{80454}{80526}He walks slowly. He needed help|into the witness chair.
+{80528}{80656}- You make it sound like a long walk.|- For an old man who had a stroke, it is.
+{80658}{80719}- What are you doin'?|- l'm gonna try it.
+{80722}{80794}What do you mean?|Why didn't his lawyer bring it up?
+{80796}{80895}- Maybe he just didn't think of it.|- Do you think he's an idiot? lt's obvious.
+{80897}{80969}- Did you think of it?|- lt don't matter. He didn't bring it up
+{80972}{81019}because he knew it'd hurt his case.
+{81022}{81119}Or because it would have meant bullying|and badgering a helpless old man.
+{81121}{81201}That doesn't sit well with a jury.|Most lawyers avoid it.
+{81203}{81267}- What kind of a bum is he?|- That's what l'm asking.
+{81269}{81341}Pass me that chair.|Those two chairs are the old man's bed.
+{81344}{81411}l just paced off 12 feet.|This is the bedroom door.
+{81413}{81482}That's crazy.|You can't re-create a thing like that.
+{81484}{81615}The hall was 43 feet.|l'll pace from that wall and back again.
+{81617}{81701}This is insane. What are you|wasting everybody's time for?
+{81704}{81782}According to you, it'll only take|15 seconds. We can spare that.
+{81864}{81913}Come on. Knock it off.
+{81916}{81986}OK. OK, OK, killer.
+{82005}{82054}Yeah.
+{82098}{82201}Will you stand there and mark the front|door? lt was chain-locked, remember.
+{82204}{82261}- Who's got a watch with a second hand?|- l have.
+{82263}{82368}Stamp your foot. That'll be the body|falling. You can time me from there.
+{82371}{82468}- What are we gonna do, play charades?|- What are we waiting for?
+{82470}{82527}l wanna wait till|the second hand reaches 60.
+{82530}{82579}Aw, come on!
+{82730}{82833}Come on, speed it up.|He can walk twice as fast as that.
+{82836}{82926}lf you want me to walk|faster than that, l will.
+{83301}{83377}- Lock. Door. Stop.|- Right.
+{83380}{83427}What's the time?
+{83430}{83506}Exactly... 41 seconds.
+{83509}{83616}This is what l think happened. The old|man heard the fight a few hours earlier.
+{83619}{83683}When he's in bed,|he heard the body hit the floor,
+{83685}{83769}heard the woman scream, got to|his front door as fast as he could,
+{83772}{83833}heard somebody running|and assumed it was the boy.
+{83836}{83910}- l think that's possible.|- Assumed?
+{83946}{84017}Brother, l've seen all kinds|of dishonesty in my day,
+{84019}{84090}but this little display takes the cake.
+{84092}{84209}You all come in here with your hearts|bleedin' about slum kids and injustice.
+{84212}{84315}You listen to some fairy tales. You start|getting through to these old ladies.
+{84317}{84386}You're not getting through to me.|l've had enough.
+{84388}{84489}What's the matter with you guys?|You all know he's guilty! He's got to burn!
+{84491}{84573}- He'll slip through our fingers.|- Slip through our fingers?
+{84575}{84669}- Are you his executioner?|- l'm one of 'em.
+{84671}{84765}- Perhaps you'd like to pull the switch.|- For this kid, you bet l would.
+{84768}{84860}l feel sorry for you. What it must|feel like to wanna pull the switch!
+{84863}{84959}Ever since you walked in, you've acted|like a self-appointed public avenger.
+{84961}{85058}You want to see this boy die because|you want it, not because of the facts.
+{85060}{85121}- You're a sadist.|- You...
+{85123}{85213}Let me go! l'll kill him! l'll kill him!
+{85215}{85293}You don't really mean|you'll kill me, do you?
+{85448}{85538}- Anything wrong? l heard some noise.|- No, everything's all right.
+{85541}{85607}We're just... Friendly little argument.
+{85609}{85734}We're through with that diagram.|You can take it if you want. Here you are.
+{85892}{85951}What are you lookin' at?
+{86438}{86507}- Somebody has to start off again.|- l beg pardon...
+{86509}{86579}''l beg pardon.''|What are you so polite about?
+{86581}{86704}For the same reason you're not.|lt's the way l was brought up.
+{86729}{86823}This fighting... That's not|why we are here, to fight.
+{86826}{86885}We have a responsibility.
+{86913}{87018}This, l have always thought,|is a remarkable thing about democracy.
+{87021}{87076}That we are...
+{87110}{87159}What is the word?
+{87162}{87265}Notified. That we are notified by mail|to come down to this place
+{87268}{87443}to decide on the guilt or innocence of a|man we... we have never heard of before.
+{87445}{87570}We have nothing to gain or lose|by... by our verdict.
+{87572}{87673}This is one of the reasons|why we are strong.
+{87675}{87769}We should not make it a... personal thing.
+{87855}{87941}lf nobody else has an idea,|l might have a cutie here.
+{87944}{88005}Let's throw it out|and see if the cat licks it up.
+{88007}{88066}- The cat licks it up?|- Yeah. The boy...
+{88177}{88307}Look how dark it's gettin' out there.|l bet we're gonna have a storm now.
+{88332}{88410}Boy, oh boy. lt's really hot, huh?
+{88428}{88553}- Pardon me, but... don't you ever sweat?|- No, l don't.
+{88586}{88664}Listen. l... l was wonderin' if...
+{88699}{88768}Maybe... maybe we should|take another vote.
+{88770}{88897}Great. Maybe we can follow this one up|with a little dancing and refreshments!
+{88899}{88973}- Mr Foreman?|- Well, that's OK with me.
+{88976}{89066}Anyone doesn't wanna vote?|Hey, come on.
+{89087}{89158}- Sorry.|- l think we ought to have an open ballot.
+{89160}{89238}Call out our votes, you know?|Let's see who stands where.
+{89241}{89325}Well, that sounds fair to me.|Anyone object?
+{89369}{89453}OK. l'll call off your jury numbers. One?
+{89456}{89534}Oh, that's me. l vote guilty. Two?
+{89570}{89615}Not guilty.
+{89618}{89659}Number three?
+{89662}{89707}Guilty.
+{89710}{89759}Number four?
+{89789}{89828}Guilty.
+{89831}{89868}Number five?
+{89870}{89919}Not guilty.
+{89922}{89973}Number six?
+{89975}{90022}Not guilty.
+{90024}{90065}Number seven?
+{90067}{90110}Guilty.
+{90112}{90157}Number eight?
+{90159}{90208}Not guilty.
+{90236}{90307}- Number nine?|- Not guilty.
+{90309}{90380}- Number ten?|- Guilty.
+{90401}{90448}Number eleven?
+{90451}{90494}Not guilty.
+{90497}{90546}Number twelve?
+{90556}{90609}Number twelve!
+{90612}{90667}Guilty.
+{90794}{90858}The vote is now six to six.
+{90860}{90930}And we go into extra innings here, eh?
+{90964}{91089}Six to six! l'm telling you, some of you|people in here must be out of your minds.
+{91092}{91130}A kid like that!
+{91132}{91214}l don't think the kind of boy he is|has anything to do with it.
+{91217}{91283}- Facts determine the case.|- Don't give me that!
+{91285}{91361}l'm sick and tired of facts.|You can twist 'em any way you like.
+{91364}{91442}That's exactly the point|this gentleman has been making.
+{91445}{91512}You keep shouting|at the top of your lungs...
+{91543}{91642}l'd like to be a few years younger.|That man gets on my...
+{91723}{91782}- My, it's hot in here.|- Want a drink of water?
+{91785}{91834}No, no. Thanks. Thanks.
+{92065}{92172}- lt's gonna rain.|- Well, how'd you figure that out, killer?
+{92197}{92306}- How come you changed your vote?|- lt just seemed there was room for doubt.
+{92308}{92380}- You haven't got a leg to stand on.|- l don't feel that way.
+{92383}{92459}- A lot of details never came out.|- Yeah, well, good luck.
+{92462}{92600}Come on. You're like everybody else.|You think too much, you get mixed up.
+{92602}{92698}- You know what l mean?|- l don't think you have any right to...
+{92700}{92749}Loudmouth.
+{94027}{94099}Look at that come down, will ya?
+{94114}{94225}You know, this reminds me|of a storm we had last...
+{94258}{94344}Was it November?|l don't know. Something.
+{94347}{94439}lt was quite a storm we had.|lt was right in the middle of a game.
+{94442}{94563}We were behind - seven to six. We'd just|started to move the ball, made a tackle.
+{94565}{94680}lt was gonna cut right in, slash through,|slashed right in, cut right through...
+{94682}{94731}And...
+{94744}{94803}We had this kid - Slattery.
+{94829}{94888}He was an ox. A real ox.
+{94909}{94966}l wish l had another one just like him.
+{94969}{95076}l forgot to tell you. l'm the assistant head|coach at Andrew J McCorkle High School.
+{95078}{95131}That's out in Queens.
+{95134}{95245}And anyway... we're starting|to move along real nice.
+{95248}{95361}You know, their whole line is just...|just comin' apart.
+{95363}{95449}And it starts to come down,|cats and dogs, just like this.
+{95452}{95542}Just... whoosh! You know, right down.
+{95545}{95627}Well, it was murder, you know?
+{95630}{95755}l swear, l... l nearly bawled.|Just... We couldn't go nowhere.
+{96188}{96274}Hey, what is it with this fan here?|How come...
+{96510}{96580}Must have been|on the same switch with the lights.
+{96582}{96654}Well, things are lookin' up here, huh?
+{96671}{96720}Yeah.
+{96822}{96871}Boy, that's better.
+{97032}{97091}Hey! Two points.
+{97208}{97276}You guys ever go to the Garden?
+{97310}{97379}That's a damn stupid thing to do.
+{97381}{97430}Oh, l'm sorry. l...
+{97458}{97507}You know?
+{97534}{97591}Pardon me.
+{97593}{97708}Well, how do you like it? Even-steven.|Pretty surprising, isn't it?
+{97711}{97760}Yes.
+{97790}{97911}That... business before, when that tall guy,|whatshisname, was tryin' to bait me?
+{97913}{98005}That doesn't prove anything.|l'm a... pretty excitable person.
+{98007}{98097}Where does he come off|calling me a public avenger, a sadist?
+{98100}{98188}Anyone in his right mind|would blow his stack.
+{98190}{98243}He was just tryin' to bait me.
+{98246}{98305}He did an excellent job.
+{98355}{98406}l think we're going nowhere here.
+{98408}{98469}l'm ready to walk into court|and declare a hung jury.
+{98472}{98550}- There's no point in this thing going on.|- l go for that, too.
+{98552}{98617}Let the kid take his chance|with 12 other guys.
+{98619}{98697}The judge won't accept a hung jury.|We haven't been here long.
+{98699}{98771}- Well, let's find out.|- l am not in favour of that.
+{98774}{98858}This kid wouldn't stand a chance|with another jury, and you know it.
+{98861}{98931}Come on, we're hung.|Nobody's gonna change his vote.
+{98933}{99013}- Still no room for reasonable doubt?|- No.
+{99016}{99141}Pardon. Maybe you don't fully understand|the term ''reasonable doubt''.
+{99143}{99217}What do you mean, l don't understand?
+{99220}{99300}How do you like this guy?|l'm tellin' you, they're all alike.
+{99302}{99368}They come over here|and before they can take a breath,
+{99370}{99435}they're telling us how to run the show.
+{99437}{99511}- Boy, the arrogance of this guy!|- All right.
+{99513}{99589}Let's stop the arguing|for about two minutes in here.
+{99592}{99653}Now, who's got|something constructive to say?
+{99655}{99737}l'd like to go over something,|if you gentlemen don't mind.
+{99739}{99798}An important point|for the prosecution was
+{99800}{99921}the fact that after the boy claimed he was|at the movies when the killing took place,
+{99924}{100022}he couldn't remember the names|of the movies or who starred in them.
+{100024}{100118}- This gentleman has made that point.|- That's correct.
+{100121}{100228}lt's the only alibi the boy offered, and|he couldn't back it up with any details.
+{100230}{100304}ln the boy's place,|do you think you could remember details
+{100307}{100391}after an upsetting experience|such as being slapped by your father?
+{100393}{100471}l think so, if there were|any special details to remember.
+{100474}{100554}The boy couldn't remember the movies|because he wasn't there.
+{100556}{100675}According to the police testimony,|the boy was questioned in the kitchen,
+{100677}{100747}while the body of his father|was lying in the bedroom.
+{100749}{100808}Do you think|you could remember details?
+{100810}{100861}- l do.|- Under great emotional stress?
+{100863}{100963}- Under great emotional stress.|- He remembered them correctly in court.
+{100965}{101053}Yes. His lawyer took great pains|to bring that out.
+{101055}{101152}He had three months to the day of the trial|in which to memorise them.
+{101154}{101263}lt's not difficult for a lawyer to find out|what played on a particular night.
+{101265}{101351}l'll take the testimony|from right after the murder,
+{101354}{101457}when he couldn't remember a thing about|the movies, great emotional stress or not.
+{101466}{101544}- l'd like to ask you a personal question.|- Go ahead.
+{101547}{101623}- Where were you last night?|- l was home all night.
+{101626}{101685}- How about the night before that?|- What is this?
+{101688}{101780}lt's all right. l left the office at 8.30|and went straight home and to bed.
+{101783}{101886}- And the night before that?|- That was... Tuesday night.
+{101888}{101959}- The bridge tournament. l played bridge.|- Monday night?
+{101961}{102043}When you get to|New Year's Eve 1954, let me know.
+{102088}{102240}Monday night? Monday night...|my wife and l went to the movies.
+{102243}{102314}- What did you see?|- The Scarlet Circle. A whodunit.
+{102316}{102385}- What was the second feature?|- The...
+{102429}{102494}l'll tell you in a minute. The...
+{102496}{102545}Remarkable Mrs...
+{102579}{102628}Something.
+{102658}{102719}Mrs Bainbridge.|The Remarkable Mrs Bainbridge.
+{102722}{102812}l saw that. lt's called|The Amazing Mrs Bainbridge.
+{102814}{102875}Yes. The Amazing Mrs Bainbridge.
+{102878}{102939}Who was in|The Amazing Mrs Bainbridge?
+{102941}{103033}Barbara... Long, l think it was.
+{103035}{103092}A dark, very pretty girl.
+{103114}{103194}- Ling or... Long. Something like that.|- Who else?
+{103197}{103248}l'd never heard of them before.
+{103251}{103362}lt was a very inexpensive|second feature, with unknown...
+{103364}{103464}And you weren't under|an emotional stress, were you?
+{103505}{103554}No.
+{103557}{103606}l wasn't.
+{103644}{103716}- l think the point is made.|- Big point.
+{103756}{103850}You can talk till your tongue is|draggin' on the floor. The boy is guilty.
+{103852}{103905}Know what l mean, my friend?
+{103908}{104008}- You got those cough drops?|- They're all gone, my friend.
+{104039}{104136}Oh, boy. Look at that rain.|There goes your ball game.
+{104151}{104206}lt's only a shower.
+{104209}{104274}Besides, they got the infield covered.
+{104276}{104360}Say, could l see that knife|a second, please?
+{104403}{104514}Well, we're still tied up six to six.|Who's got a suggestion?
+{104516}{104616}- lt's 5 after 6. Let's get some dinner.|- Why don't we wait till 7 o'clock?
+{104618}{104638}OK with me.
+{104676}{104762}There's something l'd like to say.|lt's been bothering me a little,
+{104764}{104819}and as long as we're stuck...
+{104821}{104913}There was this whole business about|the stab wound and how it was made.
+{104916}{105000}- The downward angle of it, you know?|- Don't start with that again.
+{105003}{105097}- They've been over it and over it.|- l know, but l don't go along with it.
+{105099}{105197}The boy was five feet seven inches tall.|His father was six two.
+{105199}{105254}That's a difference of seven inches.
+{105257}{105360}lt's very awkward to stab down into the|chest of someone over half a foot taller.
+{105362}{105421}Give me that.
+{105423}{105513}l'll give you a demonstration.|Somebody get up.
+{105683}{105740}Watch this - l don't wanna|have to do it again.
+{105742}{105811}l'll make myself about|six or seven inches shorter.
+{105813}{105901}- That's about right. Maybe a little more.|- OK, a little more.
+{106177}{106236}Now... nobody's hurt.
+{106258}{106317}- Right?|- Right. Nobody hurt.
+{106413}{106532}Now, this is the way l'd stab a man|who was... taller than l was.
+{106535}{106594}Look at the angle. Down and in.
+{106597}{106687}And this is the way it was done.|Now tell me l'm wrong.
+{106754}{106832}- Down and in. There's no argument.|- Hold on a minute.
+{106834}{106883}Will you give me that?
+{106901}{106950}Boy, l hate these things.
+{106953}{107029}- Did you ever see a knife fight?|- No.
+{107031}{107103}Anybody here ever see a knife fight?
+{107106}{107229}Well, l have. You know, on my back stoop,|the lot across the street, back yard.
+{107231}{107288}Switchblades came|with the neighbourhood.
+{107290}{107364}Funny l never thought of it before.|l guess you try to forget.
+{107366}{107489}- How do you use a switchblade?|- Well, you'd never use it like this.
+{107492}{107574}See, you'd lose too much time|switching hands.
+{107591}{107650}Here's how. Underhand.
+{107714}{107790}Anyone who's ever used one|wouldn't handle it any other way.
+{107792}{107849}- Are you sure?|- l'm sure.
+{107852}{107963}- lt's why they're made to open like that.|- The boy was pretty handy with a knife?
+{107966}{108040}You think he could have made|the wound that killed his father?
+{108042}{108139}No. Not with the experience he got|all his life handling these things.
+{108141}{108217}- l feel he'd have gone for him underhand.|- How do you know?
+{108219}{108313}- Were you there when he was killed?|- No. Neither was anybody else.
+{108316}{108394}What are you giving us this|mumbo jumbo for? l don't believe it.
+{108396}{108474}l don't think you can tell|what wound he might have made
+{108476}{108535}simply because he knew|how to handle a knife.
+{108537}{108611}- What do you think?|- l don't know.
+{108614}{108696}- What do you mean, you don't know?|- l don't know.
+{108796}{108865}- How about you?|- l don't know about the rest of 'em,
+{108867}{108965}but l'm gettin' tired of this|yakety-yakkin'. lt's gettin' us nowhere.
+{108967}{109084}So l guess l'll have to break it up.|l'm changin' my vote to not guilty.
+{109086}{109158}- You're what?|- You heard me. l've had enough.
+{109161}{109290}- You've had enough? That's no answer.|- Listen, you just take care of yourself.
+{109292}{109351}- You know?|- He's right.
+{109360}{109419}That's not an answer.
+{109421}{109491}What kind of a man are you?
+{109493}{109569}You have sat here and voted|guilty with everyone else
+{109571}{109674}because there are some baseball tickets|burning a hole in your pocket.
+{109676}{109793}Now you have changed your vote because|you say you're sick of all the talking?
+{109796}{109886}- Now, listen, buddy...|- Who tells you that you have the right
+{109889}{109961}to play like this with a man's life?|Don't you care...
+{109963}{110041}Now, wait a minute.|You can't talk like that to me.
+{110044}{110151}l can talk like that to you.|lf you want to vote not guilty,
+{110154}{110261}do it because you are convinced he is not|guilty, not because you've had enough.
+{110263}{110330}And if you think he is guilty,|then vote that way.
+{110332}{110402}Or don't you have the guts|to do what you think is right?
+{110404}{110475}- Now, listen...|- Guilty or not guilty?
+{110477}{110563}- l told you. Not guilty.|- Why?
+{110609}{110722}- Look, l don't have to...|- You do have to. Say it. Why?
+{110725}{110780}l... l don't think he's guilty.
+{111008}{111109}- l want another vote.|- OK, that's another vote called for.
+{111111}{111183}l guess the quickest way|is a show of hands. Anyone object?
+{111186}{111254}OK, all those voting not guilty,|raise your hands.
+{111263}{111314}One, two, three,
+{111324}{111398}four, five, six, seven...
+{111462}{111511}eight.
+{111629}{111678}Nine.
+{111719}{111797}All those voting guilty, raise your hands.
+{111799}{111854}One, two, three.
+{111856}{111938}Well, the vote's nine to three|in favour of acquittal.
+{111943}{111986}l don't understand you people!
+{111988}{112084}All these picky little points you keep|bringing up, they don't mean nothing!
+{112086}{112127}You saw this kid just like l did.
+{112129}{112213}Don't tell me you believe that|phoney story about losing the knife
+{112215}{112264}and about being at the movies.
+{112267}{112339}Look, you know how these people lie.|lt's born in them.
+{112342}{112439}What the heck? l don't have to tell you.|They don't know what the truth is!
+{112441}{112527}And they don't need any real big reason|to kill someone, either.
+{112530}{112647}No, sir. They get drunk.|They're real big drinkers, all of 'em.
+{112650}{112724}You know that. And bang!|Someone's lying in the gutter.
+{112726}{112800}Nobody's blaming 'em.|That's the way they are by nature.
+{112802}{112886}You know what l mean? Violent.|Where are you going?
+{112888}{112988}Human life don't mean|as much to them as it does to us.
+{112990}{113053}They're lushing it up|and fighting all the time,
+{113055}{113143}and if somebody gets killed,|somebody gets killed! They don't care!
+{113145}{113242}Sure, there's some good things about 'em,|too. l'm the first one to say that.
+{113244}{113330}l've known a couple who were OK,|but that's the exception.
+{113332}{113420}Most of 'em, it's like they have|no feelings! They can do anything!
+{113422}{113471}What's going on here?
+{113489}{113586}l'm trying to tell you.|You're making a big mistake, you people.
+{113588}{113678}This kid is a liar. l know it.|l know all about them.
+{113701}{113750}Listen to me. They're no good.
+{113753}{113818}There's not a one of 'em who's any good.
+{113860}{113919}l mean, what's happening in here?
+{113922}{113983}l speak my piece, and you...
+{114003}{114052}Listen to me.
+{114071}{114130}l... We're... we're...
+{114133}{114242}This kid on trial here. His type.|Well, don't you know about them?
+{114263}{114322}There's a... There's a danger here.
+{114348}{114399}These people are dangerous.
+{114402}{114457}They're... wild.
+{114479}{114538}Listen to me. Listen to me.
+{114553}{114649}l have. Now, sit down|and don't open your mouth again.
+{114743}{114811}Some of the time... l tell you.
+{115684}{115816}lt's always difficult to keep personal|prejudice out of a thing like this.
+{115818}{115950}Wherever you run into it,|prejudice always obscures the truth.
+{115952}{116009}l don't really know what the truth is.
+{116011}{116112}l don't suppose anybody|will ever really know.
+{116114}{116204}Nine of us now seem to feel|that the defendant is innocent.
+{116207}{116330}But we're just gambling on|probabilities. We may be wrong.
+{116332}{116474}We may be trying to let a guilty man|go free. l don't know. Nobody really can.
+{116477}{116532}But we have a reasonable doubt.
+{116534}{116624}And that's something|that's very valuable in our system.
+{116626}{116737}No jury can declare a man guilty|unless it's sure.
+{116764}{116893}We nine can't understand|how you three are still so sure.
+{116917}{116976}- Maybe you can tell us.|- l'll try.
+{116997}{117085}You've made some excellent points,|but l still believe the boy is guilty.
+{117087}{117194}l have two reasons. One: the evidence|given by the woman across the street,
+{117196}{117264}who actually saw the murder committed.
+{117266}{117331}That's the most important testimony.
+{117333}{117396}And two: the fact that|she described the stabbing
+{117398}{117472}by saying she saw the boy|raise his arm over his head
+{117475}{117545}and stab down into the father's chest.
+{117547}{117643}- She saw him do it, the wrong way.|- That's absolutely right.
+{117654}{117711}Let's talk about this woman for a moment.
+{117714}{117790}She said she went to bed|about eleven o'clock that night.
+{117792}{117872}Her bed was next to the window,|and she could look out
+{117874}{117973}and see directly into|the boy's room across the street.
+{117975}{118036}She tossed and turned for over an hour.
+{118038}{118138}Finally, she turned toward the window|at about 10 minutes after 12,
+{118140}{118268}and as she looked out, she saw the killing|through the windows of a passing el train.
+{118270}{118327}She said the lights went out|after the killing,
+{118330}{118468}but that she got a good look at the boy|in the act of stabbing his father.
+{118471}{118580}As far as l can see it,|this is unshakeable testimony.
+{118582}{118666}- Well, that's the whole case.|- What do you think?
+{118779}{118828}How about you?
+{118860}{119010}l don't know. So much evidence to sift.|This is a pretty complicated business.
+{119013}{119107}Frankly, l don't see how|you can vote for acquittal.
+{119110}{119210}- lt's not so easy to arrange the evidence.|- Throw out all the other evidence!
+{119212}{119298}The woman saw him do it!|What else do you want?
+{119301}{119352}- Well, maybe...|- Let's vote on it.
+{119355}{119447}OK, there's another vote called for.|Anyone object?
+{119450}{119503}All right. l'm changing my vote.
+{119506}{119582}- He's guilty.|- Anybody else? The vote is eight to four.
+{119585}{119669}Why is this such a personal triumph|for you, this one vote?
+{119672}{119754}OK. l say we're a hung jury.|l say we take it in to the judge.
+{119757}{119827}How about it? l wanna hear arguments.
+{119829}{119919}You, you're the leader of the cause.|What about it?
+{119940}{120030}- Let's go over it again.|- We've been over it again.
+{120033}{120148}The boy in the grey flannel suit is|bouncin' back and forth like a tennis ball.
+{120150}{120281}There's no point in getting nasty.|You keep trying to turn this into a contest.
+{120296}{120322}OK.
+{120324}{120398}Maybe we can talk about|setting some kind of time limit.
+{120400}{120470}Yeah. Once around for the deal, huh?
+{120472}{120612}lt's... a quarter after six. Someone|before mentioned seven o'clock.
+{120614}{120750}That's a point at which we might begin to|discuss whether we're a hung jury or not.
+{120753}{120870}- Don't you feel well?|- l feel perfectly well, thank you.
+{120872}{120943}l was saying seven o'clock|would be a reasonable time...
+{120945}{121047}The reason l asked that was because|you were rubbing your nose like...
+{121049}{121113}Oh, l'm sorry for interrupting.
+{121115}{121197}But you made a gesture|that reminded me of something.
+{121199}{121316}- l'm trying to settle something here.|- Well, l think this is important.
+{121322}{121427}Thank you. Now, then.|l'm sure you'll pardon me for this,
+{121429}{121501}but l was wondering why|you rub your nose like that.
+{121504}{121534}Come on, will you?
+{121537}{121644}At this point l happen to be talking|to the gentleman sitting next to you.
+{121646}{121728}Now, why were you|rubbing your nose like that?
+{121730}{121824}lf it's any of your business, l was|rubbing it because it bothers me a little.
+{121826}{121922}Oh, l'm sorry. ls it...|ls it because of your eyeglasses?
+{121924}{122008}lt is. Now could we get on|to something else?
+{122011}{122120}Your eyeglasses made those two deep|impressions on the sides of your nose.
+{122122}{122208}l hadn't noticed that before.|That must be annoying.
+{122210}{122259}lt is very annoying.
+{122262}{122392}l wouldn't know about that.|l've never worn eyeglasses. 20l20.
+{122394}{122495}Listen, will you come on already|with the optometrist bit?
+{122497}{122585}The woman who testified|that she saw the killing
+{122587}{122688}had those same marks|on the sides of her nose.
+{122690}{122739}Holy smoke! He's right.
+{122742}{122878}Please. Just give me a minute...|and l'll be finished.
+{122881}{122952}l don't know if anyone else|noticed that about her.
+{122954}{123120}l didn't think of it then, but l've been|going over her face... in my mind.
+{123122}{123224}She had those same marks.|She kept rubbing them in court.
+{123234}{123316}He's right. She did do that a lot.
+{123318}{123408}This woman was about 45 years old.
+{123433}{123529}She was making|a tremendous effort to look 375.
+{123531}{123664}For her first public appearance.|Heavy make-up. Dyed hair.
+{123666}{123758}Brand-new clothes that should have|been worn by a younger woman.
+{123760}{123902}No glasses. Well, women do that.|See if you can get a mental picture of her.
+{123905}{123989}What do you mean, no glasses? How do|you know whether she wore glasses?
+{123992}{124072}- Just cos she was rubbin' her nose?|- She had those marks. l saw 'em.
+{124075}{124155}- So? What do you think that means?|- l'm sick of your yellin'...
+{124158}{124194}Come on. Forget it.
+{124196}{124305}Hey, listen. Listen, he's right. l saw|them too. l was the closest one to her.
+{124308}{124382}She had these things|on the side of her nose.
+{124389}{124430}What point are you makin'?
+{124432}{124518}She had dyed hair, marks on her nose.|What does that mean?
+{124521}{124630}Could those marks be made|by anything other than eyeglasses?
+{124713}{124764}No. They couldn't.
+{124766}{124825}l didn't see any marks!
+{124861}{124960}l did. Strange,|but l didn't think about it before.
+{124962}{125015}Why didn't the lawyer say something?
+{125018}{125089}There are twelve people in here|concentrating on this case.
+{125091}{125179}- Eleven of us didn't think of it either.|- What about the district attorney?
+{125182}{125266}You think he'd pull that?|Have her testify without her glasses?
+{125269}{125371}Ever see a woman who didn't want to|wear them because they spoil her looks?
+{125373}{125488}OK. She had marks on her nose.|l'm givin' you that.
+{125490}{125570}From glasses, right? She didn't|wanna wear 'em out of the house
+{125572}{125644}so people'd think she's gorgeous.
+{125647}{125750}But when she saw this kid killin'|his father, she was in the house alone.
+{125753}{125802}That's all.
+{125806}{125865}Do you wear glasses when you go to bed?
+{125867}{125916}No. l don't.
+{125942}{125991}No one wears eyeglasses to bed.
+{125993}{126102}lt's logical to assume|that she wasn't wearing them in bed.
+{126105}{126164}- How do you know?|- l don't know. l'm guessing.
+{126166}{126277}l'm also guessing that she didn't put them|on when she looked out of the window.
+{126280}{126354}She testified the killing|took place just as she looked out.
+{126357}{126429}The lights went off.|She didn't have time to put them on.
+{126431}{126523}Here's another guess. She honestly|thought she saw the boy kill his father.
+{126526}{126610}- l say she only saw a blur.|- How do you know what she saw?
+{126612}{126696}How does he know all that? How|do you know what glasses she wore?
+{126698}{126792}Maybe they were sunglasses! Maybe|she was far-sighted! What do you know?
+{126794}{126866}l only know the woman's eyesight|is in question now.
+{126868}{127012}She had to be able to identify a person|60 feet away, at night, without glasses.
+{127015}{127087}You can't send someone off|to die on evidence like that.
+{127089}{127125}Aw, don't give me that.
+{127127}{127199}- Might she not have made a mistake?|- No.
+{127204}{127276}- lt's not possible?|- No, it's not possible.
+{127355}{127404}ls it possible?
+{127426}{127475}Not guilty.
+{127565}{127628}Do you think he's guilty?
+{127630}{127685}l think he's guilty.
+{127745}{127794}Do you?
+{127849}{127885}No.
+{127887}{127959}l'm convinced. Not guilty.
+{127962}{128056}- What's the matter with you?|- l have a reasonable doubt now.
+{128059}{128133}- lt's eleven to one.|- What about all the other evidence?
+{128135}{128221}What about all that stuff? The...|The knife? The whole business?
+{128223}{128321}Well, you said we could|throw out all the other evidence.
+{128431}{128490}Well, what do we do now?
+{128559}{128604}You're alone.
+{128606}{128709}l don't care whether l'm alone or not.|lt's my right.
+{128765}{128812}lt's your right.
+{129040}{129111}Well, what do you want? l say he's guilty.
+{129131}{129232}- We want to hear your arguments.|- l gave you my arguments.
+{129242}{129332}We're not convinced.|We want to hear them again.
+{129359}{129426}We have as much time as it takes.
+{129545}{129697}Everything - every single thing that took|place in that courtroom says he's guilty.
+{129699}{129773}What do you think?|l'm an idiot or somethin'?
+{129799}{129935}Take that stuff about the old man,|who lived there and heard everything!
+{129966}{130054}Or this business about the knife.|They found another one exactly like it?
+{130056}{130140}The old man saw him!|Right there, on the stairs.
+{130142}{130228}What's the difference|how many seconds it was?
+{130241}{130391}Every single thing. The knife|fallin' through a hole in his pocket.
+{130393}{130481}You can't prove he didn't get to the door!
+{130483}{130596}Sure, you can take all the time, hobble|around the room, but you can't prove it!
+{130658}{130730}And what about this business of the el?|And the movies?
+{130733}{130811}There's a phoney deal if l ever heard one.
+{130814}{130910}l'll bet you $5,000|l'd remember the movies l saw.
+{130912}{131060}l'm tellin' you, everything that's gone on|has been twisted and turned!
+{131063}{131151}This business with the glasses?|How do you know she didn't have 'em on?
+{131154}{131234}This woman testified in open court!
+{131253}{131345}And what about|hearin' the kid yell? Huh?
+{131348}{131448}l'm tellin' ya, l've got all the facts here.
+{131458}{131507}Here...
+{131557}{131637}Well, that's it. That's the whole case.
+{131792}{131841}Well?
+{131884}{131933}Say something!
+{132054}{132134}You lousy bunch of bleedin' hearts.
+{132154}{132279}You're not gonna intimidate me.|l'm entitled to my opinion.
+{132341}{132431}Rotten kids... You work your life out!
+{132716}{132765}No...
+{132851}{132900}Not guilty.
+{132978}{133027}Not guilty.
+{133398}{133447}We're ready now.
+{136155}{136204}Hey!
+{136306}{136378}- What's your name?|- Davis.
+{136380}{136429}My name's McCardle.
+{136485}{136550}- Well, so long.|- So long.
+{138143}{138217}Subtitles by Visiontext
